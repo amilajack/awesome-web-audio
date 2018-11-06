@@ -1,21 +1,17 @@
 # awesome-web-audio-projects
 
-⚠️A work in progress ⚠️
+⚠️ A Work in Progress ⚠️
 
 ![full kks mk2 overview ignite your creativity home studio](/content/images/2017/09/img-ce-full-kks-mk2_overview_ignite-your-creativity_01-e423428e126a8b0565075810cda7fc5e-d@2x.jpg)
 
-#### Virtual Studio Technology (VST)
+## Virtual Studio Technology (VST)
 * https://github.com/amilajack/schmix
 * [VST Plugins](https://www.kvraudio.com/plugins/newest)
 
-#### Modular Synthesizer/DAW (Digital audio workstation)
-
-----
-
-#### Learning About Music
+## Learning About Music
 * https://learningmusic.ableton.com
 
-#### UI Controls
+## UI Controls
 * https://github.com/hatsumatsu/108
 * https://github.com/joshwcomeau/waveforms
 * https://codepen.io/amilajack/pen/rvENGJ
@@ -33,10 +29,10 @@
 * [gridsound](https://github.com/gridsound/daw)
 * https://www.propellerheads.se/europa https://twitter.com/mrdoob/status/1001842332084391936
 
-#### Unknown terms and concepts
+## Wavetables
 * [wavetable construction](https://twitter.com/andremichelle/status/991252187954208768)
 
-#### UI Designs
+## UI Designs
 ![partial-finnal](/content/images/2018/04/partial-finnal.png)
 * [Phanton](https://dribbble.com/shots/2873404-Phantom-010-Finnal/attachments/593059)
 * [daw designer 1](https://dribbble.com/luxu)
@@ -52,7 +48,7 @@
 ## People to Follow
 * https://github.com/kylestetz
 
-#### Visualization
+## Visualization
 * https://tympanus.net/Development/AudioVisualizers/
 * https://tympanus.net/codrops/2018/03/06/creative-audio-visualizers/
 * [vogerdesign](http://vogerdesign.com/)
@@ -76,25 +72,25 @@
 * [sequencer](https://codepen.io/njmcode/pen/PwaXwB)
 * [necessarydisorder](https://necessarydisorder.wordpress.com/2017/11/15/drawing-from-noise-and-then-making-animated-loopy-gifs-from-there/)
 
-#### Research
+## Research
 * https://research.fb.com/wp-content/themes/fb-research/research/sing-paper/
 
-#### Drum Machines
+## Drum Machines
 * https://codepen.io/amilajack/pen/xWwONL
 
-#### Synths
+## Synths
 * https://www.webaudiomodules.org/wamsynths/
 * [Synth powered by JUCE](https://www.webaudiomodules.org/wamsynths/obxd)
 * http://faust.grame.fr/news/2017/12/12/benchmark-tools.html
 * [WASM Synth](https://www.webaudiomodules.org/blog/obxd-wasm/)
 
-#### Mixers
+## Mixers
 * https://github.com/amilajack/web-audio-mixer
 
-#### Sound Apps
+## Sound Apps
 * https://www.tones.fm/tones/calm
 
-#### Sound Libraries
+## Sound Libraries
 * https://github.com/danigb/tonal
 * https://github.com/amilajack/tonal
 * https://github.com/amilajack/note-parser
@@ -108,16 +104,16 @@
 * [HTML5 Web Audio API for dynamic sound synthesis](https://github.com/rserota/wad)
 * https://github.com/olilarkin/awesome-musicdsp
 
-#### Open Source Apps
+## Open Source Apps
 * [gridsound](https://github.com/amilajack/gridsound.github.io)
 * [gridsound daw](https://github.com/amilajack/daw)
 * [OpenDAW](https://github.com/pverrecchia/OpenDAW)
 * [loop drop app](http://loopjs.com/)
 
-### Sound Transformation
+## Sound Transformation
 * [keyandpad](http://keyandpad.com/)
 
-#### Live Demos
+## Live Demos
 * [io 808](https://github.com/vincentriemer/io-808)
 * [drum-machine](https://github.com/amilajack/drum-machine)
 * [Equalizer](https://github.com/amilajack/GraphicalFilterEditor)
@@ -141,19 +137,17 @@
 * https://webaudiodemos.appspot.com/input/
 * [Audio looper](https://github.com/cwilso/Looper.js)
 
-#### Audio Analysis
-
-#### Lists
+## Lists
 * https://factotumo.com/2015/10/music-gets-social-with-browser-based-daws/
 * https://github.com/adius/awesome-sheet-music
 
-#### Steal
+## Steal
 * http://audulus.com/
 
-#### Audio Graphs
+## Audio Graphs
 * [Flow Graph](https://codepen.io/amilajack/pen/qPjoVv)
 
-#### Tutorials
+## Tutorials
 * http://kylestetz.github.io/Web-Audio-Basics/
 * http://atastypixel.com/blog/four-common-mistakes-in-audio-development/
 * http://waveforms.surge.sh/waveforms-intro
@@ -176,10 +170,10 @@
 * https://www.sitepoint.com/using-fourier-transforms-web-audio-api/
 * [Advanced](https://github.com/amilajack/synth-secrets)
 
-#### Creating Modular Synths
+## Creating Modular Synths
 https://noisehack.com/how-to-build-monotron-synth-web-audio-api/
 
-#### Parallel Processing of Sounds
+## Parallel Processing of Sounds
 [mastering-techniques-that-shouldnt-have-worked-but-did](https://www.izotope.com/en/community/blog/tips-tutorials/2017/08/4-mastering-techniques-that-shouldnt-have-worked-but-did.html)
 
 
@@ -191,23 +185,19 @@ https://noisehack.com/how-to-build-monotron-synth-web-audio-api/
 
 [sampleradar-162-free-synth-orchestra-samples](http://www.musicradar.com/news/sampleradar-162-free-synth-orchestra-samples)
 
-#### Icon
-![c1d081f9a017610d7a9006d4ef491dd0](/content/images/2017/09/c1d081f9a017610d7a9006d4ef491dd0.jpg)
-
-#### Data Visualization
+## Data Visualization
 http://datavizproject.com/
 
-#### Video Tutorials
+## Video Tutorials
 * https://www.youtube.com/playlist?list=PLEETnX-uPtBVpZvp-R2daNfy9k3-L-Q3u
 * [Electron and JUCE](https://www.youtube.com/watch?v=WxRWgafjXSA)
 
-#### Native Modules
+## Native Modules
 * https://github.com/amilajack/node-audio
 * https://github.com/ramirezd42/vst-js
 * https://github.com/ramirezd42/electron-webassembly-hello
 
-#### Reading
-==Note: Don't judge these articles by their titles. Just read them==
+## Readings
 * http://nickwritesablog.com/sound-design-in-web-audio-neurofunk-bass-part-1/
 * http://nickwritesablog.com/sound-design-in-web-audio-neurofunk-bass-part-2/
 * http://www.cim.mcgill.ca/%7Eclark/nordmodularbook/nm_percussion.html
@@ -216,7 +206,9 @@ http://datavizproject.com/
 * http://stuff.bjornroche.com/fundamental-of-audio-programming-slides.pdf
 * https://www.objc.io/issues/24-audio/audio-dog-house/
 
-#### Inspiration
+-------
+
+## Inspiration
 ![Screen-Shot-2017-09-23-at-12.10.01-AM](/content/images/2017/09/Screen-Shot-2017-09-23-at-12.10.01-AM.png)
 https://www.sitepoint.com/using-fourier-transforms-web-audio-api/
 
