@@ -1,4 +1,4 @@
-# awesome-web-audio-projects
+# awesome-audio-resources
 
 ⚠️ A Work in Progress ⚠️
 
