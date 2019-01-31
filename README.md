@@ -80,6 +80,7 @@
 * [Synth powered by JUCE](https://www.webaudiomodules.org/wamsynths/obxd)
 * [faust](http://faust.grame.fr/news/2017/12/12/benchmark-tools.html)
 * [WASM Synth](https://www.webaudiomodules.org/blog/obxd-wasm/)
+* [webaudio-synth](https://github.com/nextgtrgod/webaudio-synth)
 
 ## Mixers
 * [codepen web-audio-mixer](https://github.com/amilajack/web-audio-mixer)
