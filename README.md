@@ -1,7 +1,5 @@
 # awesome-audio-resources
 
-⚠️ A Work in Progress ⚠️
-
 ## Virtual Studio Technology (VST)
 * [amilajack/schmix](https://github.com/amilajack/schmix)
 * [VST Plugins](https://www.kvraudio.com/plugins/newest)
@@ -81,6 +79,7 @@
 * [faust](http://faust.grame.fr/news/2017/12/12/benchmark-tools.html)
 * [WASM Synth](https://www.webaudiomodules.org/blog/obxd-wasm/)
 * [webaudio-synth](https://github.com/nextgtrgod/webaudio-synth)
+* [monotron](https://github.com/amilajack/monotron)
 
 ## Mixers
 * [codepen web-audio-mixer](https://github.com/amilajack/web-audio-mixer)
