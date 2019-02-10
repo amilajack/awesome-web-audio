@@ -105,6 +105,7 @@
 * [gridsound daw](https://github.com/amilajack/daw)
 * [OpenDAW](https://github.com/pverrecchia/OpenDAW)
 * [loop drop app](http://loopjs.com/)
+* [jazzari](https://jackschaedler.github.io/jazzari)
 
 ## Sound Transformation
 * [keyandpad](http://keyandpad.com/)
