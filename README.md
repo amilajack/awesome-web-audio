@@ -71,7 +71,8 @@
 * [sing paper by Facebook](https://research.fb.com/wp-content/themes/fb-research/research/sing-paper/)
 
 ## Drum Machines
-* https://codepen.io/amilajack/pen/xWwONL
+* [drum-machine](https://github.com/amilajack/drum-machine)
+* [Neural Draw Machine](https://codepen.io/amilajack/pen/xWwONL)
 
 ## Synths
 * [wamsynths](https://www.webaudiomodules.org/wamsynths/)
