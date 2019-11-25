@@ -82,6 +82,7 @@
 * [webaudio-synth](https://github.com/nextgtrgod/webaudio-synth)
 * [monotron](https://github.com/amilajack/monotron)
 * [tinkersynth](https://tinkersynth.com)
+* [hexabeat](https://maxwellito.github.io/hexabeat/)
 
 ## Mixers
 * [codepen web-audio-mixer](https://github.com/amilajack/web-audio-mixer)
