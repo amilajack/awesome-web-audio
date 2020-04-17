@@ -39,7 +39,7 @@
 * [github.com/kylestetz/AudioKeys](https://github.com/kylestetz/AudioKeys)
 * [slang.kylestetz.com](http://slang.kylestetz.com/)
 * [kylestetz.github.io/Sentencer](http://kylestetz.github.io/Sentencer/)
-* [Ukelele Practice](https://ukulele-practice.glitch.me)
+
 
 ## People to Follow
 * [@kylestetz](https://github.com/kylestetz)
@@ -140,6 +140,7 @@
 * [webaudiodemos.appspot.com/input](https://webaudiodemos.appspot.com/input/)
 * [Audio looper](https://github.com/cwilso/Looper.js)
 * [chord progressions](https://arp.jake.fun)
+* [Ukulele Practice](https://ukulele-practice.glitch.me)
 
 ## Lists
 * [music-gets-social-with-browser-based-daws](https://factotumo.com/2015/10/music-gets-social-with-browser-based-daws/)
