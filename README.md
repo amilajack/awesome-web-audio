@@ -1,5 +1,7 @@
 # awesome-audio-resources
 
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Made With Love](https://img.shields.io/badge/Made%20With-Love-orange.svg)](https://github.com/chetanraj/awesome-github-badges)
+
 ## Virtual Studio Technology (VST)
 * [amilajack/schmix](https://github.com/amilajack/schmix)
 * [VST Plugins](https://www.kvraudio.com/plugins/newest)
