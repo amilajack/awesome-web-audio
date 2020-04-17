@@ -40,6 +40,7 @@
 * [slang.kylestetz.com](http://slang.kylestetz.com/)
 * [kylestetz.github.io/Sentencer](http://kylestetz.github.io/Sentencer/)
 
+
 ## People to Follow
 * [@kylestetz](https://github.com/kylestetz)
 
@@ -73,6 +74,7 @@
 ## Drum Machines
 * [drum-machine](https://github.com/amilajack/drum-machine)
 * [Neural Draw Machine](https://codepen.io/amilajack/pen/xWwONL)
+* [drumbot](https://drumbot.glitch.me)
 
 ## Synths
 * [wamsynths](https://www.webaudiomodules.org/wamsynths/)
@@ -82,6 +84,7 @@
 * [webaudio-synth](https://github.com/nextgtrgod/webaudio-synth)
 * [monotron](https://github.com/amilajack/monotron)
 * [tinkersynth](https://tinkersynth.com)
+* [tinkersynth-slopes](https://tinkersynth.com/slopes/)
 * [hexabeat](https://maxwellito.github.io/hexabeat/)
 
 ## Mixers
@@ -136,6 +139,8 @@
 * [github.com/amilajack/PitchDetect](https://github.com/amilajack/PitchDetect)
 * [webaudiodemos.appspot.com/input](https://webaudiodemos.appspot.com/input/)
 * [Audio looper](https://github.com/cwilso/Looper.js)
+* [chord progressions](https://arp.jake.fun)
+* [Ukulele Practice](https://ukulele-practice.glitch.me)
 
 ## Lists
 * [music-gets-social-with-browser-based-daws](https://factotumo.com/2015/10/music-gets-social-with-browser-based-daws/)
@@ -160,6 +165,8 @@
 * [web audio school](http://mmckegg.github.io/web-audio-school/)
 * [midi](https://medium.com/nebo-15/tutorial-how-to-create-midi-synthesizer-with-midi-api-and-node-js-48d41c162009)
 * [Synth Secrets](https://github.com/amilajack/synth-secrets)
+* [Building A Wavetable Synth From Scratch](https://cprimozic.net/blog/buliding-a-wavetable-synthesizer-with-rust-wasm-and-webaudio/)
+
 #### Video Tutorials
 * [Chris Lowis: A Brief History of Synthesis with the Web Audio API](https://www.youtube.com/watch?v=d8TCq0xLnV4)
 * [Steve Kinney: Building a musical instrument with the Web Audio API | JSConf US 2015](https://www.youtube.com/watch?v=56spBAgOYfg)
@@ -199,5 +206,4 @@
 * [Subtractive synths explained](https://www.residentadvisor.net/features/1351)
 
 ## Experiments
-
 * [generative.fm](https://generative.fm): Endlessly unique ambient music
