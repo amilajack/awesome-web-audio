@@ -90,7 +90,7 @@
 * [tinkersynth-slopes](https://tinkersynth.com/slopes/)
 * [hexabeat](https://maxwellito.github.io/hexabeat/)
 * [RC455 Synth](https://github.com/BarakChamo/rc455)
-* [VUE Synth] (https://codepen.io/mavrK/pen/QabpyO)
+* [Vue Synth](https://codepen.io/mavrK/pen/QabpyO)
 
 
 ## Mixers
