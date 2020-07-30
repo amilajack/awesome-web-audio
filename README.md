@@ -68,8 +68,13 @@
 * [live input](https://webaudiodemos.appspot.com/input/)
 * [waveform](https://codepen.io/SaschaSigl/pen/bNoMYM)
 * [misc waveform](https://codepen.io/prakhar625/pen/zddKRj)
+* [waveform playlist](https://github.com/naomiaro/waveform-playlist)
 * [sequencer](https://codepen.io/njmcode/pen/PwaXwB)
 * [necessarydisorder](https://necessarydisorder.wordpress.com/2017/11/15/drawing-from-noise-and-then-making-animated-loopy-gifs-from-there/)
+* [Audio Mass](https://audiomass.co)
+* [Music Gird](https://github.com/irshadshalu/music-grid)
+* [Spectro](https://github.com/calebj0seph/spectro)
+
 
 ## Research
 * [sing paper by Facebook](https://research.fb.com/wp-content/themes/fb-research/research/sing-paper/)
@@ -187,6 +192,10 @@
 
 ## Creating Modular Synths
 * [how-to-build-monotron-synth-web-audio-api](https://noisehack.com/how-to-build-monotron-synth-web-audio-api/)
+
+## High Performance Compute 
+* [Reading & Writing Audio Overview](https://wasmbyexample.dev/examples/reading-and-writing-audio/reading-and-writing-audio.assemblyscript.en-us.html)
+* [Building A Wavetable Synthesizer using Rust, WebAssembly, and WebAudio](https://cprimozic.net/blog/buliding-a-wavetable-synthesizer-with-rust-wasm-and-webaudio/)
 
 ## Parallel Processing of Sounds
 * [mastering-techniques-that-shouldnt-have-worked-but-did](https://www.izotope.com/en/community/blog/tips-tutorials/2017/08/4-mastering-techniques-that-shouldnt-have-worked-but-did.html)
