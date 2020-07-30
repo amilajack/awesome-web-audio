@@ -96,6 +96,7 @@
 * [hexabeat](https://maxwellito.github.io/hexabeat/)
 * [RC455 Synth](https://github.com/BarakChamo/rc455)
 * [Vue Synth](https://codepen.io/mavrK/pen/QabpyO)
+* [JStrait/JS-Synth](https://github.com/jstrait/jssynth)
 
 
 ## Mixers
@@ -189,6 +190,12 @@
 * [web-browser-now-makes-meeblip-synth-powerful-free](http://cdm.link/2017/03/web-browser-now-makes-meeblip-synth-powerful-free/)
 * [stuff-ive-been-doing-with-music](https://factotumo.com/2017/03/stuff-ive-been-doing-with-music/)
 * [using-fourier-transforms-web-audio-api](https://www.sitepoint.com/using-fourier-transforms-web-audio-api/)
+
+## People To Follow
+* [Joel Strait](https://www.joelstrait.com)
+
+## Newsletters
+* [Web Audio Weekly](https://www.webaudioweekly.com)
 
 ## Creating Modular Synths
 * [how-to-build-monotron-synth-web-audio-api](https://noisehack.com/how-to-build-monotron-synth-web-audio-api/)
