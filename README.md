@@ -57,7 +57,7 @@
 * [3d vis](https://github.com/amilajack/audiofabric)
 * [misc](https://googlechrome.github.io/web-audio-samples/samples/audio/)
 * [waveform](https://github.com/amilajack/waveformjs)
-* [waveform](https://audio-lab.github.io/gl-waveform/)
+* [waveform](https://a-vis.github.io/gl-waveform/)
 * [waveform](http://www.bbc.co.uk/rd/blog/2013-10-audio-waveforms)
 * [gl-spectrum](https://github.com/amilajack/gl-spectrum)
 * [gl-spectrogram](https://github.com/audio-lab/gl-spectrogram)
