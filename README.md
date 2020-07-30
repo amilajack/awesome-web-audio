@@ -41,7 +41,7 @@
 * [github.com/kylestetz/AudioKeys](https://github.com/kylestetz/AudioKeys)
 * [slang.kylestetz.com](http://slang.kylestetz.com/)
 * [kylestetz.github.io/Sentencer](http://kylestetz.github.io/Sentencer/)
-* [Chrome Experiments : Song Maker] (https://musiclab.chromeexperiments.com/Song-Maker/)
+* [Chrome Experiments : Song Maker](https://musiclab.chromeexperiments.com/Song-Maker/)
 
 
 ## People to Follow
