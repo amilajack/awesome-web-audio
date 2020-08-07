@@ -74,6 +74,9 @@
 * [Audio Mass](https://audiomass.co)
 * [Music Gird](https://github.com/irshadshalu/music-grid)
 * [Spectro](https://github.com/calebj0seph/spectro)
+* [JS Rocks](https://github.com/vitaliy-bobrov/js-rocks)
+* [TimeStretch Player](https://29a.ch/timestretch/)
+* [audioMotion](https://github.com/hvianna/audioMotion.js)
 
 
 ## Research
@@ -97,7 +100,13 @@
 * [RC455 Synth](https://github.com/BarakChamo/rc455)
 * [Vue Synth](https://codepen.io/mavrK/pen/QabpyO)
 * [JStrait/JS-Synth](https://github.com/jstrait/jssynth)
+* [Synth.fm](http://www.synth.fm)
+* [Monotron Synth](https://noisehack.com/monotron/)
+* [Monotron Synth's GitHub)(https://github.com/zacharydenton/monotron)
 
+## Audio Editors
+* [Skratchdot Audio Editor](https://github.com/skratchdot/audio-editor)
+* [WebAudio SampleEditorView](https://github.com/rikard-io/SampleEditorView)
 
 ## Mixers
 * [codepen web-audio-mixer](https://github.com/amilajack/web-audio-mixer)
@@ -117,6 +126,7 @@
 * [danigb/synth-kit](https://github.com/danigb/synth-kit)
 * [web-audio-oscillators](https://github.com/lukehorvat/web-audio-oscillators)
 * [HTML5 Web Audio API for dynamic sound synthesis](https://github.com/rserota/wad)
+* [XSound](https://github.com/Korilakkuma/XSound)
 
 ## Open Source Apps
 * [gridsound](https://github.com/amilajack/gridsound.github.io)
@@ -124,6 +134,16 @@
 * [OpenDAW](https://github.com/pverrecchia/OpenDAW)
 * [loop drop app](http://loopjs.com/)
 * [jazzari](https://jackschaedler.github.io/jazzari)
+* [Loopslicer](https://github.com/kernow-ged/loopslicer)
+* [LARS.js](https://github.com/mdahlgrengadd/LARS.js)
+
+## Scores
+* [VexFlow 3](https://github.com/0xfe/vexflow)
+
+## ADSR
+* [ADSR](https://codepen.io/federico-lelli/pen/joGBjM)
+* [ADSR](https://codepen.io/HandsomeChuBoy/full/LKpJEw)
+
 
 ## Sound Transformation
 * [keyandpad](http://keyandpad.com/)
@@ -153,6 +173,7 @@
 * [Audio looper](https://github.com/cwilso/Looper.js)
 * [chord progressions](https://arp.jake.fun)
 * [Ukulele Practice](https://ukulele-practice.glitch.me)
+
 
 ## Lists
 * [music-gets-social-with-browser-based-daws](https://factotumo.com/2015/10/music-gets-social-with-browser-based-daws/)
