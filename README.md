@@ -88,6 +88,7 @@
 * [drumbot](https://drumbot.glitch.me)
 
 ## Synths
+* [Juno Synth Emulator GitHub Repository](https://github.com/dzannotti/junox)
 * [wamsynths](https://www.webaudiomodules.org/wamsynths/)
 * [Synth powered by JUCE](https://www.webaudiomodules.org/wamsynths/obxd)
 * [faust](http://faust.grame.fr/news/2017/12/12/benchmark-tools.html)
