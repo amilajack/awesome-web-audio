@@ -4,6 +4,7 @@
 
 ## Virtual Studio Technology (VST)
 * [amilajack/schmix](https://github.com/amilajack/schmix)
+* [VirtuAW - The Virtual Audio Workstation](https://github.com/tiborpilz/virtuaw-web)
 * [VST Plugins](https://www.kvraudio.com/plugins/newest)
 
 ## Learning About Music
