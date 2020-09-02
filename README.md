@@ -90,6 +90,7 @@
 ## Synths
 * [Juno Synth Emulator GitHub Repository](https://github.com/dzannotti/junox)
 * [wamsynths](https://www.webaudiomodules.org/wamsynths/)
+* [WaveTable Synth](https://googlechromelabs.github.io/web-audio-samples/archive/demos/wavetable-synth.html)
 * [Synth powered by JUCE](https://www.webaudiomodules.org/wamsynths/obxd)
 * [faust](http://faust.grame.fr/news/2017/12/12/benchmark-tools.html)
 * [WASM Synth](https://www.webaudiomodules.org/blog/obxd-wasm/)
