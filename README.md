@@ -13,6 +13,9 @@
 ## Learning About Music
 * [learningmusic.ableton.com](https://learningmusic.ableton.com)
 
+## Audio Software Development Kits (SDKs)
+* [Resonance Audio SDK for Web](https://github.com/resonance-audio/resonance-audio-web-sdk)
+
 ## UI Controls
 * [hatsumatsu/108](https://github.com/hatsumatsu/108)
 * [joshwcomeau/waveforms](https://github.com/joshwcomeau/waveforms)
