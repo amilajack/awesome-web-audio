@@ -187,6 +187,7 @@
 
 ## Audio Graphs
 * [Flow Graph](https://codepen.io/amilajack/pen/qPjoVv)
+* [Modulator](https://github.com/lcrespom/Modulator)
 
 ## Tutorials
 * [Web-Audio-Basics](http://kylestetz.github.io/Web-Audio-Basics/)
