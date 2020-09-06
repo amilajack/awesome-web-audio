@@ -143,6 +143,7 @@
 * [gridsound](https://github.com/amilajack/gridsound.github.io)
 * [gridsound daw](https://github.com/amilajack/daw)
 * [OpenDAW](https://github.com/pverrecchia/OpenDAW)
+* [soundbank](https://github.com/mmckegg/soundbank)
 * [loop drop app](http://loopjs.com/)
 * [jazzari](https://jackschaedler.github.io/jazzari)
 * [Loopslicer](https://github.com/kernow-ged/loopslicer)
