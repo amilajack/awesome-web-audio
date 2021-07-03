@@ -111,7 +111,7 @@
 * [JStrait/JS-Synth](https://github.com/jstrait/jssynth)
 * [Synth.fm](http://www.synth.fm)
 * [Monotron Synth](https://noisehack.com/monotron/)
-* [Monotron Synth's GitHub)(https://github.com/zacharydenton/monotron)
+* [Monotron Synth's GitHub](https://github.com/zacharydenton/monotron)
 
 ## Audio Editors
 * [Skratchdot Audio Editor](https://github.com/skratchdot/audio-editor)
