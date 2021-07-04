@@ -5,6 +5,8 @@
 ## Digital Audio Workstations (DAWs)
 * [VirtuAW - The Virtual Audio Workstation](https://github.com/tiborpilz/virtuaw-web)
 
+## Scheduling
+* [WAA Clock](https://github.com/sebpiq/WAAClock)
 
 ## Virtual Studio Technology (VST)
 * [amilajack/schmix](https://github.com/amilajack/schmix)
