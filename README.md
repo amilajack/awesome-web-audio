@@ -105,6 +105,7 @@
 * [WASM Synth](https://www.webaudiomodules.org/blog/obxd-wasm/)
 * [webaudio-synth](https://github.com/nextgtrgod/webaudio-synth)
 * [monotron](https://github.com/amilajack/monotron)
+* [Tim Daub's WASM Synth](https://github.com/TimDaub/wasm-synth)
 * [tinkersynth](https://tinkersynth.com)
 * [tinkersynth-slopes](https://tinkersynth.com/slopes/)
 * [hexabeat](https://maxwellito.github.io/hexabeat/)
