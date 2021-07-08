@@ -251,6 +251,9 @@
 * [ramirezd42/vst-js](https://github.com/ramirezd42/vst-js)
 * [ramirezd42/electron-webassembly-hello](https://github.com/ramirezd42/electron-webassembly-hello)
 
+## Peak Meters
+* [Web Audio Peak Meters](https://github.com/esonderegger/web-audio-peak-meter)
+
 ## Pitch Shifters
 * [Phaze](https://github.com/olvb/phaze)
 
