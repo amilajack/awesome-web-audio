@@ -251,6 +251,9 @@
 * [ramirezd42/vst-js](https://github.com/ramirezd42/vst-js)
 * [ramirezd42/electron-webassembly-hello](https://github.com/ramirezd42/electron-webassembly-hello)
 
+## Pitch Shifters
+* [Phaze](https://github.com/olvb/phaze)
+
 ## Readings
 * [sound-design-in-web-audio-neurofunk-bass-part-1](http://nickwritesablog.com/sound-design-in-web-audio-neurofunk-bass-part-1/)
 * [sound-design-in-web-audio-neurofunk-bass-part-1](http://nickwritesablog.com/sound-design-in-web-audio-neurofunk-bass-part-2/)
