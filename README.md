@@ -117,6 +117,7 @@
 * [Monotron Synth's GitHub](https://github.com/zacharydenton/monotron)
 
 ## Audio Editors
+* [Soundbox](https://github.com/mbitsnbites/soundbox)
 * [Skratchdot Audio Editor](https://github.com/skratchdot/audio-editor)
 * [WebAudio SampleEditorView](https://github.com/rikard-io/SampleEditorView)
 
