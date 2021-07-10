@@ -147,6 +147,7 @@
 * [OpenDAW](https://github.com/pverrecchia/OpenDAW)
 * [soundbank](https://github.com/mmckegg/soundbank)
 * [loop drop app](http://loopjs.com/)
+* [Ferment](https://github.com/fermentation/ferment)
 * [jazzari](https://jackschaedler.github.io/jazzari)
 * [Loopslicer](https://github.com/kernow-ged/loopslicer)
 * [LARS.js](https://github.com/mdahlgrengadd/LARS.js)
