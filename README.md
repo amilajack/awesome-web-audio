@@ -270,5 +270,8 @@
 * [audio-dog-house](https://www.objc.io/issues/24-audio/audio-dog-house/)
 * [Subtractive synths explained](https://www.residentadvisor.net/features/1351)
 
+## Signal Processing Libraries
+* [Maximilian](https://github.com/micknoise/Maximilian)
+
 ## Experiments
 * [generative.fm](https://generative.fm): Endlessly unique ambient music
