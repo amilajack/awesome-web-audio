@@ -5,6 +5,9 @@
 ## Digital Audio Workstations (DAWs)
 * [VirtuAW - The Virtual Audio Workstation](https://github.com/tiborpilz/virtuaw-web)
 
+## Digital Signal Processing
+* [Musicdsp.org](https://www.musicdsp.org/en/latest/)
+
 ## Scheduling
 * [WAA Clock](https://github.com/sebpiq/WAAClock)
 
