@@ -252,6 +252,9 @@
 * [Audio Programming Tutorials](https://www.youtube.com/playlist?list=PLEETnX-uPtBVpZvp-R2daNfy9k3-L-Q3u)
 * [Electron and JUCE](https://www.youtube.com/watch?v=WxRWgafjXSA)
 
+## Music Games
+* [Piano-Flow](https://github.com/SuneBear/Piano-Flow)
+
 ## Native Modules
 * [amilajack/node-audio](https://github.com/amilajack/node-audio)
 * [ramirezd42/vst-js](https://github.com/ramirezd42/vst-js)
