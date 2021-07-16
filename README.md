@@ -7,6 +7,7 @@
 
 ## Digital Signal Processing
 * [Musicdsp.org](https://www.musicdsp.org/en/latest/)
+* [noise.sh](https://noise.sh)
 
 ## Scheduling
 * [WAA Clock](https://github.com/sebpiq/WAAClock)
