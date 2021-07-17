@@ -101,6 +101,9 @@
 * [Neural Draw Machine](https://codepen.io/amilajack/pen/xWwONL)
 * [drumbot](https://drumbot.glitch.me)
 
+## Sequencer
+* [Intermix](https://github.com/RolandJansen/intermix)
+
 ## Synths
 * [Juno Synth Emulator GitHub Repository](https://github.com/dzannotti/junox)
 * [wamsynths](https://www.webaudiomodules.org/wamsynths/)
