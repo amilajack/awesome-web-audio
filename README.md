@@ -147,6 +147,7 @@
 * [danigb/synth-kit](https://github.com/danigb/synth-kit)
 * [web-audio-oscillators](https://github.com/lukehorvat/web-audio-oscillators)
 * [HTML5 Web Audio API for dynamic sound synthesis](https://github.com/rserota/wad)
+* [`Sonorous.js`](https://github.com/EkoLabs/sonorous)
 * [XSound](https://github.com/Korilakkuma/XSound)
 
 ## Open Source Apps
