@@ -145,6 +145,7 @@
 * [Tonejs/Tone.js](https://github.com/Tonejs/Tone.js)
 * [LabSound/LabSound](https://github.com/LabSound/LabSound)
 * [danigb/synth-kit](https://github.com/danigb/synth-kit)
+* [Wavy Jones](https://github.com/stuartmemo/wavy-jones)
 * [web-audio-oscillators](https://github.com/lukehorvat/web-audio-oscillators)
 * [HTML5 Web Audio API for dynamic sound synthesis](https://github.com/rserota/wad)
 * [`Sonorous.js`](https://github.com/EkoLabs/sonorous)
