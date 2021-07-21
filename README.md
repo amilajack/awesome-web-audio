@@ -87,6 +87,7 @@
 * [necessarydisorder](https://necessarydisorder.wordpress.com/2017/11/15/drawing-from-noise-and-then-making-animated-loopy-gifs-from-there/)
 * [Audio Mass](https://audiomass.co)
 * [Music Gird](https://github.com/irshadshalu/music-grid)
+* [Ramp Synth](https://github.com/thi-ng/umbrella/tree/develop/examples/ramp-synth)
 * [Spectro](https://github.com/calebj0seph/spectro)
 * [JS Rocks](https://github.com/vitaliy-bobrov/js-rocks)
 * [TimeStretch Player](https://29a.ch/timestretch/)
