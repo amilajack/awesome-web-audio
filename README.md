@@ -103,6 +103,9 @@
 * [Neural Draw Machine](https://codepen.io/amilajack/pen/xWwONL)
 * [drumbot](https://drumbot.glitch.me)
 
+## NodeJS Addons
+* [`vst.js`](https://github.com/ramirezd42/vst-js)
+
 ## Sequencer
 * [Intermix](https://github.com/RolandJansen/intermix)
 
