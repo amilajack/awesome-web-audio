@@ -16,6 +16,7 @@
 ## Virtual Studio Technology (VST)
 * [amilajack/schmix](https://github.com/amilajack/schmix)
 * [Temper](https://github.com/creativeintent/temper)
+* [`vst.js`](https://github.com/ramirezd42/vst-js)
 * [VST Plugins](https://www.kvraudio.com/plugins/newest)
 
 ## Learning About Music
@@ -102,9 +103,6 @@
 * [drum-machine](https://github.com/amilajack/drum-machine)
 * [Neural Draw Machine](https://codepen.io/amilajack/pen/xWwONL)
 * [drumbot](https://drumbot.glitch.me)
-
-## NodeJS Addons
-* [`vst.js`](https://github.com/ramirezd42/vst-js)
 
 ## Sequencer
 * [Intermix](https://github.com/RolandJansen/intermix)
