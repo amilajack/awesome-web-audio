@@ -2,6 +2,9 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Made With Love](https://img.shields.io/badge/Made%20With-Love-orange.svg)](https://github.com/chetanraj/awesome-github-badges)
 
+## Analysis
+* [Web Audio Beat Detector](https://github.com/chrisguttandin/web-audio-beat-detector)
+
 ## Digital Audio Workstations (DAWs)
 * [schmix](https://github.com/ramirezd42/schmix)
 * [VirtuAW - The Virtual Audio Workstation](https://github.com/tiborpilz/virtuaw-web)
