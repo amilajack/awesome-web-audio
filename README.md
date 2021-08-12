@@ -5,6 +5,9 @@
 ## Analysis
 * [Web Audio Beat Detector](https://github.com/chrisguttandin/web-audio-beat-detector)
 
+## Computational Design Tools
+* [Thi.ng](https://github.com/thi-ng/)
+
 ## Digital Audio Workstations (DAWs)
 * [schmix](https://github.com/ramirezd42/schmix)
 * [VirtuAW - The Virtual Audio Workstation](https://github.com/tiborpilz/virtuaw-web)
