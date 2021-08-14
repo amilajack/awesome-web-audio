@@ -108,6 +108,7 @@
 
 ## Drum Machines
 * [drum-machine](https://github.com/amilajack/drum-machine)
+* [Infinite Drum Machine](https://experiments.withgoogle.com/ai/drum-machine/view/ )
 * [Neural Draw Machine](https://codepen.io/amilajack/pen/xWwONL)
 * [drumbot](https://drumbot.glitch.me)
 
