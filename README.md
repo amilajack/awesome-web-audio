@@ -163,6 +163,7 @@
 * [XSound](https://github.com/Korilakkuma/XSound)
 
 ## Open Source Apps
+* [Efflux](https://github.com/igorski/efflux-tracker)
 * [gridsound](https://github.com/amilajack/gridsound.github.io)
 * [gridsound daw](https://github.com/amilajack/daw)
 * [OpenDAW](https://github.com/pverrecchia/OpenDAW)
