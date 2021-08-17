@@ -59,6 +59,7 @@
 * [daw designer 2](https://dribbble.com/nndmlsvc)
 
 ## Interesting Experiments
+* [Daniel Esteban VR Instrument](https://twitter.com/DaniGatunes/status/1248680218493104136)
 * [turtle.audio](http://turtle.audio/)
 * [scribble.audio](http://scribble.audio/)
 * [github.com/kylestetz/AudioKeys](https://github.com/kylestetz/AudioKeys)
