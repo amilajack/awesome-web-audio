@@ -73,6 +73,7 @@
 
 ## Visualization
 * [AudioVisualizers](https://tympanus.net/Development/AudioVisualizers/)
+* [Bouncy Perlin Noise](https://codepen.io/2xAA/full/YoWzrv)
 * [creative-audio-visualizers](https://tympanus.net/codrops/2018/03/06/creative-audio-visualizers/)
 * [vogerdesign](http://vogerdesign.com/)
 * [synth](https://codepen.io/desandro/pen/xZmROR)
