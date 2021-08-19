@@ -63,6 +63,7 @@
 * [turtle.audio](http://turtle.audio/)
 * [scribble.audio](http://scribble.audio/)
 * [github.com/kylestetz/AudioKeys](https://github.com/kylestetz/AudioKeys)
+* [Orchestral String Emulation](https://twitter.com/_scottdarby/status/1083296147568058368)
 * [slang.kylestetz.com](http://slang.kylestetz.com/)
 * [kylestetz.github.io/Sentencer](http://kylestetz.github.io/Sentencer/)
 * [Chrome Experiments : Song Maker](https://musiclab.chromeexperiments.com/Song-Maker/)
