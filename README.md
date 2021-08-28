@@ -11,6 +11,7 @@
 ## Digital Audio Workstations (DAWs)
 * [schmix](https://github.com/ramirezd42/schmix)
 * [VirtuAW - The Virtual Audio Workstation](https://github.com/tiborpilz/virtuaw-web)
+* [Wizybrid](https://www.wizital.com/wizybrid)
 
 ## Digital Signal Processing
 * [Musicdsp.org](https://www.musicdsp.org/en/latest/)
