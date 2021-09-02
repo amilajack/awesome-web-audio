@@ -152,6 +152,7 @@
 
 ## Sound Libraries
 * [danigb/tonal](https://github.com/danigb/tonal)
+* [`Essentia.js`](https://github.com/MTG/essentia.js)
 * [tonal](https://github.com/amilajack/tonal)
 * [note-parser](https://github.com/amilajack/note-parser)
 * [music-scale](https://github.com/amilajack/music-scale)
