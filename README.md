@@ -5,6 +5,20 @@
 ## Analysis
 * [Web Audio Beat Detector](https://github.com/chrisguttandin/web-audio-beat-detector)
 
+## Awesome-Web-Audio-Timestretching
+
+### Rust
+- https://github.com/nwoeanhinnogaehr/pvoc-rs
+
+### Vanilla JS
+- https://github.com/echo66/PhaseVocoderJS
+
+### Works with Emscripten
+- https://github.com/marsyas/marsyas
+- http://kernow.me/pvoc/
+- https://github.com/mdahlgrengadd/PhaseVocoder-Emscripten
+- https://github.com/breakfastquay/rubberband
+
 ## Computational Design Tools
 * [Thi.ng](https://github.com/thi-ng/)
 
