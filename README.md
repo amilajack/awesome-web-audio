@@ -29,6 +29,7 @@
 ## Learning About Music
 * [learningmusic.ableton.com](https://learningmusic.ableton.com)
 * [learningsynths.ableton.com](https://learningsynths.ableton.com)
+* [PracticeLoop](https://teal-semifreddo-cad4ad.netlify.app) - Web tool for practicing with YouTube videos using speed control and loops
 
 ## Audio Software Development Kits (SDKs)
 * [Resonance Audio SDK for Web](https://github.com/resonance-audio/resonance-audio-web-sdk)
