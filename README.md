@@ -305,3 +305,5 @@
 
 ## Experiments
 * [generative.fm](https://generative.fm): Endlessly unique ambient music
+
+- [KeyboardTester.click Audio Tests](https://keyboardtester.click/headphone_speaker_tester_index.php) - Frequency sweep, pitch detector, hearing-age test, decibel meter — all built with Web Audio API as live in-browser demos.
