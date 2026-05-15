@@ -105,6 +105,7 @@
 * [JS Rocks](https://github.com/vitaliy-bobrov/js-rocks)
 * [TimeStretch Player](https://29a.ch/timestretch/)
 * [audioMotion](https://github.com/hvianna/audioMotion.js)
+* [Vizz.fm](https://vizz.fm)
 
 
 ## Research
