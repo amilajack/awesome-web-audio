@@ -68,8 +68,8 @@
 * [slang.kylestetz.com](http://slang.kylestetz.com/)
 * [kylestetz.github.io/Sentencer](http://kylestetz.github.io/Sentencer/)
 * [Chrome Experiments : Song Maker](https://musiclab.chromeexperiments.com/Song-Maker/)
-
-
+* [VocalCut](https://vocalcut.com) - A collection of 32 free, client-side browser-based audio tools and utilities running entirely locally.
+  
 ## People to Follow
 * [@kylestetz](https://github.com/kylestetz)
 
