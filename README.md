@@ -4,6 +4,7 @@
 
 ## Analysis
 * [Web Audio Beat Detector](https://github.com/chrisguttandin/web-audio-beat-detector)
+* [Audio Browser Lab](https://github.com/aribradshaw/audio-browser-lab) - Reproduce and diagnose browser audio playback, seeking, codec, and lifecycle bugs with shareable evidence.
 
 ## Computational Design Tools
 * [Thi.ng](https://github.com/thi-ng/)
