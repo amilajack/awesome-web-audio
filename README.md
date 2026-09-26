@@ -68,6 +68,7 @@
 * [slang.kylestetz.com](http://slang.kylestetz.com/)
 * [kylestetz.github.io/Sentencer](http://kylestetz.github.io/Sentencer/)
 * [Chrome Experiments : Song Maker](https://musiclab.chromeexperiments.com/Song-Maker/)
+* [Play Music Theory](https://playmusictheory.org/) - Draw shapes in the browser and hear them play back as music loops
 
 
 ## People to Follow
