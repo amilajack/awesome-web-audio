@@ -143,6 +143,7 @@
 * [Soundbox](https://github.com/mbitsnbites/soundbox)
 * [Skratchdot Audio Editor](https://github.com/skratchdot/audio-editor)
 * [WebAudio SampleEditorView](https://github.com/rikard-io/SampleEditorView)
+* [QuietTake Noise Remover](https://noiseremover.site/) - Free browser-based speech noise reduction with local RNNoise, original/cleaned comparison and WAV export; accepts recordings up to 50 MB and five minutes.
 
 ## Mixers
 * [codepen web-audio-mixer](https://github.com/amilajack/web-audio-mixer)
