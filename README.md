@@ -138,6 +138,8 @@
 * [Synth.fm](http://www.synth.fm)
 * [Monotron Synth](https://noisehack.com/monotron/)
 * [Monotron Synth's GitHub](https://github.com/zacharydenton/monotron)
+* [Colored Noise](https://colorednoise.app)
+* [Colored Noise's GitHub](https://github.com/gabrielberger1000/colorednoise)
 
 ## Audio Editors
 * [Soundbox](https://github.com/mbitsnbites/soundbox)
