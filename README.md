@@ -304,4 +304,5 @@
 * [Maximilian](https://github.com/micknoise/Maximilian)
 
 ## Experiments
+* [FM-1 Emulator](https://fm1-emulator.atst.tools/) : Free browser emulator for the M-VAVE FM-1 pocket synth; plays stock and 200+ community firmwares
 * [generative.fm](https://generative.fm): Endlessly unique ambient music
